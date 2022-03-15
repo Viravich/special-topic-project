@@ -1,10 +1,7 @@
 import React from "react";
 
 const AppLayout = () => {
-    return <div style= {{
-        p
-    }}></div>;
-
+  return <div style={{}}></div>;
 };
 
 export default AppLayout;
