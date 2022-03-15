@@ -1,11 +1,8 @@
+import React from "react";
 import "./App.css";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import AppLayout from "./components/layout/AppLayout";
-
-import React from "react";
-import "./App.css";
 import Navbar from "./components/navbar/NavBar";
-
 import Home from "./pages/home/Home";
 import Settime from "./pages/settime/SetTime";
 import Temperature from "./pages/temperature/Temperature";

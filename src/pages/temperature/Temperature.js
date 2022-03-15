@@ -2,6 +2,6 @@ import React from "react";
 import "./Temperature.css";
 
 function Temperature() {
-  return <div>หน้าความชื้น</div>;
+  return <div>หน้าอุณหภูมิ</div>;
 }
 export default Temperature;
